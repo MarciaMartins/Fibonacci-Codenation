@@ -1,0 +1,7 @@
+C:\Users\marci\OneDrive\Área de Trabalho\Codenation\Fibonacci\CodenationFibonacci\CodenationFibonacci\bin\Debug\CodenationFibonacci.exe.config
+C:\Users\marci\OneDrive\Área de Trabalho\Codenation\Fibonacci\CodenationFibonacci\CodenationFibonacci\bin\Debug\CodenationFibonacci.exe
+C:\Users\marci\OneDrive\Área de Trabalho\Codenation\Fibonacci\CodenationFibonacci\CodenationFibonacci\bin\Debug\CodenationFibonacci.pdb
+C:\Users\marci\OneDrive\Área de Trabalho\Codenation\Fibonacci\CodenationFibonacci\CodenationFibonacci\obj\Debug\CodenationFibonacci.csprojAssemblyReference.cache
+C:\Users\marci\OneDrive\Área de Trabalho\Codenation\Fibonacci\CodenationFibonacci\CodenationFibonacci\obj\Debug\CodenationFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\marci\OneDrive\Área de Trabalho\Codenation\Fibonacci\CodenationFibonacci\CodenationFibonacci\obj\Debug\CodenationFibonacci.exe
+C:\Users\marci\OneDrive\Área de Trabalho\Codenation\Fibonacci\CodenationFibonacci\CodenationFibonacci\obj\Debug\CodenationFibonacci.pdb
